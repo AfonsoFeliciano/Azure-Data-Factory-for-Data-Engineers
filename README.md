@@ -52,12 +52,35 @@ O projeto é aplicado desde a obtenção dos dados do Covid 19 até a sua entreg
 
 ### Módulos
 
+<p align="center">
+  <img src="imgs/img-02.jpeg" />
+</p>
 
 
+- Módulo 1 - Aspectos gerais.
+- Módulo 2 - Overview Geral.
+- Módulo 3 – Configuração de ambiente, sendo desde a criação de uma conta free na azure como provisionamento de ambientes, bem como seus conceitos.
+- Módulo 4 – Ingestão de dados em um blob storage.
+- Módulo 5 – Ingestão de dados de origem HTTP.
+- Módulo 6 – Visão geral sobre o data flow e suas limitações, e Realização de processos de ETL utilizando o Data Flow do Azure Data Factory.
+- Módulo 7 – Realizando processos de ETL mais complexos utilizando o Data Flow.
+- Módulo 8 – Realizando a preparação dos dados.
+- Módulo 9 – Conhecendo sobre o HDInsight (provisionamento, aplicação, agendamentos).
+- Módulo 10 – Visão geral sobre o databricks, composição de um cluster em driver e worker nodes, e realização do processamento através do Databricks.
+- Módulo 11 – Realizando a ingestão em um SQL Database provisionado em cloud.
+- Módulo 12 – Realizando a orquestração dos processos via pipeline utilizando as possibilidades, de parente pipeline e trigger dependency.
+- Módulo 13 – Realizando o monitoramento das triggers e pipelines bem como apresentação da ferramenta Log Analytics.
+- Módulo 14 – Realizando a extração de insights através do Power BI.
 
+### Fontes de dados
 
+As fontes dos dados são da **ECDC** contendo informações de casos confirmados, óbitos, hospitalizações e números de testes realizados e **European Statistical System** contendo informações gerais sobre a população.
 
+### Arquitetura proposta
 
+<p align="center">
+  <img src="imgs/img-01.jpeg" />
+</p>
 
 
 
