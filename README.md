@@ -1,5 +1,9 @@
 # Azure Data Factory for Data Engineers - Project Covid 19
 
+<p align="center">
+  <img src="imgs/img-03.png" widht="250" height="200" />
+</p>
+
 ## Sobre o curso
 
 ### Objetivo
@@ -83,9 +87,17 @@ As fontes dos dados são da **ECDC** contendo informações de casos confirmados
 </p>
 
 
+## Conclusão
 
+Embora já possuo alguns conhecimentos nas ferramentas, gostaria de registrar que o curso proporciona uma abordagem prática refinada com muitos conceitos nos quais até mesmos profissionais que já possuem conhecimento, podem não ter tido contato anteriormente. Agradeço imensamente ao instrutor por todos os conhecimentos abordados.
 
+<p align="center">
+ <a href="https://www.udemy.com/certificate/UC-7e6f52cf-3721-4cb4-8bf3-478794838cc9/">
+    <img src="imgs/img-04.jpg" />
+ </a>
+</p>
 
+Link do certificado: https://www.udemy.com/certificate/UC-7e6f52cf-3721-4cb4-8bf3-478794838cc9/
 
 
 
