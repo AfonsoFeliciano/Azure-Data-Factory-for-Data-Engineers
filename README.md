@@ -4,26 +4,26 @@
   <img src="imgs/img-03.png" widht="250" height="200" />
 </p>
 
-## Sobre o curso
+## ❗ Sobre o curso
 
 ### Objetivo
 O objetivo deste recurso é realizar uma demonstração de um case real de dados utilizando as principais ferramentas da Cloud da Microsoft (Azure) e como elas se integram, sendo focado principalmente em Azure Data Factory (ADF), responsável pela ingestão e orquestração dos dados.
 
-### Sobre o Autor
+### 👨‍💻 Sobre o Autor
 
 O repositório original pertence ao professor Ramesh Retnasamy no qual é especialista em Arquitetura, Design, Desenvolvimento e Implementação de projetos de engenharia de dados e machine learning, atuando com Tecnologia da Informação desde 2002. 
 
 LinkedIn: https://www.linkedin.com/in/ramesh-retnasamy/
 
-### Adquirindo o curso
+### 💰 Adquirindo o curso
 
 O curso pode ser adquirido em: https://www.udemy.com/course/learn-azure-data-factory-from-scratch/
 
-## O que é abordado
+## 📄  que é abordado
 
 Os principais aprendizados técnicos podem ser categorizados pela operacionalização das ferramentas Azure Data Factory (ADF), Azure Storage Solutions, Azure HDInsight & Datarbricks.
 
-### Azure Data Factory
+### ⚙️ Azure Data Factory
 
 Principal ferramenta em cloud da Microsoft utilizada para tarefas de obtenção, ingestão e orquestração de dados. 
 
@@ -33,7 +33,7 @@ Principal ferramenta em cloud da Microsoft utilizada para tarefas de obtenção,
 - Integração e orquestração com Databricks e HDInsight, Orquestração de todas as activites via pipeline. 
 - Aplicação do log analytics workspace para monitoramento das atividades
 
-### Azure Storage Solutions
+### 📂 Azure Storage Solutions
 
 Ferramentas em cloud da Microsoft utilizadas para armazenamento de arquivos, controle de acessos e centralização de informações.
 
@@ -41,7 +41,7 @@ Ferramentas em cloud da Microsoft utilizadas para armazenamento de arquivos, con
 - Criação de Data Lake Gen2, Conainers, Upload de dados, IAM. 
 - Criação de Azure SQL Database, valores, usuário administrador, criação de tabelas, carga de dados e queries.
 
-### Azure HDinsight & Databricks
+### ⚙️ Azure HDinsight & Databricks
 
 Ferramentas utilizadas para processamentos de grandes volumes de dados, no qual apenas o Data Factory não seria capaz de realizar os devidos tratamentos.
 
@@ -49,12 +49,12 @@ Ferramentas utilizadas para processamentos de grandes volumes de dados, no qual 
 - Criação de Workspace no Azure Databricks, criação de Clusters, realizando operações de mount em storage account, criação de notebooks, transformações via pyspark, requisição dos notebooks via ADF.
 
 
-## Estruturação do curso/projeto
+## 📄 Estruturação do curso/projeto
 
 O projeto é aplicado desde a obtenção dos dados do Covid 19 até a sua entrega de maneira estruturada, sendo possível o consumo por analistas de bi, cientistas de dados e até mesmo outros engenheiros de dados. Abaixo, pode-se observar os módulos, fontes de dados e arquitetura utilizada.
 
 
-### Módulos
+### 📄 Módulos
 
 <p align="center">
   <img src="imgs/img-02.jpeg" />
@@ -76,18 +76,18 @@ O projeto é aplicado desde a obtenção dos dados do Covid 19 até a sua entreg
 - Módulo 13 – Realizando o monitoramento das triggers e pipelines bem como apresentação da ferramenta Log Analytics.
 - Módulo 14 – Realizando a extração de insights através do Power BI.
 
-### Fontes de dados
+### 📦 Fontes de dados
 
 As fontes dos dados são da **ECDC** contendo informações de casos confirmados, óbitos, hospitalizações e números de testes realizados e **European Statistical System** contendo informações gerais sobre a população.
 
-### Arquitetura proposta
+### 💻 Arquitetura proposta
 
 <p align="center">
   <img src="imgs/img-01.jpeg" />
 </p>
 
 
-## Conclusão
+## 👨‍🎓 Conclusão
 
 Embora já possuo alguns conhecimentos nas ferramentas, gostaria de registrar que o curso proporciona uma abordagem prática refinada com muitos conceitos nos quais até mesmos profissionais que já possuem conhecimento, podem não ter tido contato anteriormente. Agradeço imensamente ao instrutor por todos os conhecimentos abordados.
 
