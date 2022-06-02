@@ -1,7 +1,7 @@
 # Azure Data Factory for Data Engineers - Project Covid 19
 
 <p align="center">
-  <img src="imgs/img-03.png" widht="250" height="200" />
+  <img src="imgs/img-03.png" widht="50%" height="50%" />
 </p>
 
 ## ❗ Sobre o curso
