@@ -7,7 +7,7 @@
 ## ❗ Sobre o curso
 
 ### Objetivo
-O objetivo deste recurso é realizar uma demonstração de um case real de dados utilizando as principais ferramentas da Cloud da Microsoft (Azure) e como elas se integram, sendo focado principalmente em Azure Data Factory (ADF), responsável pela ingestão e orquestração dos dados.
+O objetivo deste curso é realizar uma demonstração de um case real de dados utilizando as principais ferramentas da Cloud da Microsoft (Azure) e como elas se integram, sendo focado principalmente em Azure Data Factory (ADF), responsável pela ingestão e orquestração dos dados, sendo possível realizar transformações de dados utilizando Data Flow.
 
 ### 👨‍💻 Sobre o Autor
 
@@ -27,11 +27,11 @@ Os principais aprendizados técnicos podem ser categorizados pela operacionaliza
 
 Principal ferramenta em cloud da Microsoft utilizada para tarefas de obtenção, ingestão e orquestração de dados. 
 
-- Realização de integração de dados via http, blog storage e data lake gen2, activies como get metadata, if, ForEach, Remoção, validação. 
-- Utilização de parâmetros e variáveis em pipelines, criação e configuração de datasets e linkedservices para criação de metadados. 
-- Operações de debug, agendamentos por event trigger, schedule trigger e tumbling window trigger. 
+- Realização de integração de dados via HTTP, Blob Storage e Data Lake Gen2, Activies como Get Metadata, Ff, ForEach, Remoção, Validação, dentre outras. 
+- Utilização de parâmetros e variáveis em pipelines, criação e configuração de datasets e LinkedServices para criação de Metadados. 
+- Operações de debug, agendamentos por Event Trigger, Schedule Trigger e Tumbling Window Trigger. 
 - Integração e orquestração com Databricks e HDInsight, Orquestração de todas as activites via pipeline. 
-- Aplicação do log analytics workspace para monitoramento das atividades
+- Aplicação do Log Analytics Workspace para monitoramento das atividades
 
 ### 📂 Azure Storage Solutions
 
@@ -46,7 +46,7 @@ Ferramentas em cloud da Microsoft utilizadas para armazenamento de arquivos, con
 Ferramentas utilizadas para processamentos de grandes volumes de dados, no qual apenas o Data Factory não seria capaz de realizar os devidos tratamentos.
 
 - Criação de clusters em HDInsight, interação via UI, utilização de tabelas em Hive, requição das activities via data factory.
-- Criação de Workspace no Azure Databricks, criação de Clusters, realizando operações de mount em storage account, criação de notebooks, transformações via pyspark, requisição dos notebooks via ADF.
+- Criação de Workspace no Azure Databricks, criação de Clusters, realizando operações de mount em Storage Account, criação de notebooks, transformações via pyspark, requisição dos notebooks via ADF.
 
 
 ## 📄 Estruturação do curso/projeto
